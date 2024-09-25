@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hey there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Mamidi+Baby+Soumya)](https://git.io/typing-svg)
 
+•🏢 I am a Software Engineer at Accenture, Japan
+
+•🏫 2023 Dual Degree. graduate from IIT Kharagpur
+
+•💻 Former SDE Intern at Mathworks, India
+
+•👯 Pronouns: She/Her
 <!--
 **babysoumya/babysoumya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
